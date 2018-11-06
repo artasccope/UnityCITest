@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="2" result="Failed(Child)" total="2" passed="1" failed="1" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="" start-time="2018-11-05 10:03:40Z" end-time="2018-11-05 10:03:40Z" duration="0.44509">
+  <test-suite type="TestSuite" id="1000" name="UnityCITest" fullname="UnityCITest" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2018-11-05 10:03:40Z" end-time="2018-11-05 10:03:40Z" duration="0.445090" total="2" passed="1" failed="1" inconclusive="0" skipped="0" asserts="0">
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="Assembly" id="1004" name="Tests.dll" fullname="/Users/zhilingyang/UnityCITest/UnityCITest/Library/ScriptAssemblies/Tests.dll" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2018-11-05 10:03:40Z" end-time="2018-11-05 10:03:40Z" duration="0.217934" total="2" passed="1" failed="1" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="4260" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+      </properties>
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1001" name="NewTestScript" fullname="NewTestScript" classname="NewTestScript" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2018-11-05 10:03:40Z" end-time="2018-11-05 10:03:40Z" duration="0.214356" total="2" passed="1" failed="1" inconclusive="0" skipped="0" asserts="0">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1002" name="NewTestScriptSimplePasses" fullname="NewTestScript.NewTestScriptSimplePasses" methodname="NewTestScriptSimplePasses" classname="NewTestScript" runstate="Runnable" seed="1397551012" result="Passed" start-time="2018-11-05 10:03:40Z" end-time="2018-11-05 10:03:40Z" duration="0.022680" asserts="0" />
+        <test-case id="1003" name="NewTestScriptSimplePasses2" fullname="NewTestScript.NewTestScriptSimplePasses2" methodname="NewTestScriptSimplePasses2" classname="NewTestScript" runstate="Runnable" seed="1801597095" result="Failed" start-time="2018-11-05 10:03:40Z" end-time="2018-11-05 10:03:40Z" duration="0.029949" asserts="0">
+          <failure>
+            <message><![CDATA[]]></message>
+            <stack-trace><![CDATA[at NewTestScript.NewTestScriptSimplePasses2 () [0x00001] in /Users/zhilingyang/UnityCITest/UnityCITest/Assets/Scenes/Editor/Tests/NewTestScript.cs:15
+]]></stack-trace>
+          </failure>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

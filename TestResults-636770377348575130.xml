@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="" start-time="2018-11-05 10:02:14Z" end-time="2018-11-05 10:02:14Z" duration="0.270503">
+  <test-suite type="TestSuite" id="1000" name="UnityCITest" fullname="UnityCITest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2018-11-05 10:02:14Z" end-time="2018-11-05 10:02:14Z" duration="0.270503" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <test-suite type="Assembly" id="1003" name="Tests.dll" fullname="/Users/zhilingyang/UnityCITest/UnityCITest/Library/ScriptAssemblies/Tests.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2018-11-05 10:02:14Z" end-time="2018-11-05 10:02:14Z" duration="0.037385" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="4235" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+      </properties>
+      <test-suite type="TestFixture" id="1001" name="NewTestScript" fullname="NewTestScript" classname="NewTestScript" runstate="Runnable" testcasecount="1" result="Passed" start-time="2018-11-05 10:02:14Z" end-time="2018-11-05 10:02:14Z" duration="0.034574" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <test-case id="1002" name="NewTestScriptSimplePasses" fullname="NewTestScript.NewTestScriptSimplePasses" methodname="NewTestScriptSimplePasses" classname="NewTestScript" runstate="Runnable" seed="746327486" result="Passed" start-time="2018-11-05 10:02:14Z" end-time="2018-11-05 10:02:14Z" duration="0.010844" asserts="0" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

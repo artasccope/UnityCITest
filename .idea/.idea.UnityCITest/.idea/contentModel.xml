@@ -8,6 +8,9 @@
         <e p="Scenes" t="Include">
           <e p="Editor" t="Include">
             <e p="MyEditorScript.cs" t="Include" />
+            <e p="Tests" t="Include">
+              <e p="NewTestScript.cs" t="Include" />
+            </e>
           </e>
         </e>
       </e>
@@ -17,6 +20,7 @@
       <e p="Temp" t="ExcludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
       </e>
+      <e p="Tests.csproj" t="IncludeRecursive" />
       <e p="UnityCITest.sln" t="IncludeFlat" />
     </e>
   </component>

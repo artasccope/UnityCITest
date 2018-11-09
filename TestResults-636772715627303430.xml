@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="2" result="Passed" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="" start-time="2018-11-08 02:59:22Z" end-time="2018-11-08 02:59:22Z" duration="0.0669495">
+  <test-suite type="TestSuite" id="1000" name="UnityCITest" fullname="UnityCITest" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-11-08 02:59:22Z" end-time="2018-11-08 02:59:22Z" duration="0.066950" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <test-suite type="Assembly" id="1004" name="Tests.dll" fullname="/Users/zhilingyang/UnityCITest/UnityCITest/Library/ScriptAssemblies/Tests.dll" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-11-08 02:59:22Z" end-time="2018-11-08 02:59:22Z" duration="0.029932" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="25420" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+      </properties>
+      <test-suite type="TestFixture" id="1001" name="NewTestScript" fullname="NewTestScript" classname="NewTestScript" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-11-08 02:59:22Z" end-time="2018-11-08 02:59:22Z" duration="0.027615" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <test-case id="1002" name="NewTestScriptSimplePasses" fullname="NewTestScript.NewTestScriptSimplePasses" methodname="NewTestScriptSimplePasses" classname="NewTestScript" runstate="Runnable" seed="1306125271" result="Passed" start-time="2018-11-08 02:59:22Z" end-time="2018-11-08 02:59:22Z" duration="0.007431" asserts="0" />
+        <test-case id="1003" name="NewTestScriptSimplePasses2" fullname="NewTestScript.NewTestScriptSimplePasses2" methodname="NewTestScriptSimplePasses2" classname="NewTestScript" runstate="Runnable" seed="1336645441" result="Passed" start-time="2018-11-08 02:59:22Z" end-time="2018-11-08 02:59:22Z" duration="0.000239" asserts="0" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

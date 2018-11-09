@@ -1,10 +1,9 @@
-import os, sys, glob
+import os, sys, glob , time
 from git import *
 
 repo = Repo('../')
-index = repo.index
-index.add(repo.untracked_files)
-newcommit = index.commit('Regular')
+repo.git.add('--all')
+newcommit = repo.index.commit('Regular' + str(time.time()))
 origin = repo.remotes.origin
 origin.push()
 

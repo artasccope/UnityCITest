@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="da470fb1-7e4b-4cef-908c-a3a7101771c5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityCITest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityCITest/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityCITest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityCITest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,17 +17,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="NewTestScript.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="352">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <marker date="1541412158948" expanded="true" signature="6:96" ph="..." />
-                <marker date="1541412158948" expanded="true" signature="125:310" ph="{...}" />
-                <marker date="1541412158948" expanded="true" signature="183:215" ph="{...}" />
-                <marker date="1541412158948" expanded="true" signature="277:307" ph="{...}" />
+                <marker date="1541645936742" expanded="false" signature="6:96" ph="..." />
+                <marker date="1541645936742" expanded="true" signature="125:312" ph="{...}" />
+                <marker date="1541645936742" expanded="true" signature="183:215" ph="{...}" />
+                <marker date="1541645936742" expanded="true" signature="277:309" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApkPacker.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/ApkPacker.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <marker date="1541644940797" expanded="false" signature="6:128" ph="..." />
+                <marker date="1541644940797" expanded="true" signature="153:957" ph="{...}" />
+                <marker date="1541644940797" expanded="true" signature="234:955" ph="{...}" />
+                <marker date="1541644940797" expanded="true" signature="709:751" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -34,7 +54,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Editor/ApkPacker.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Editor/MyEditorScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -42,6 +63,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scenes/NewBehaviourScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/MyEditorScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Editor/BuildScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Editor/ApkPacker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs" />
       </list>
     </option>
@@ -55,39 +78,16 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="807" />
+    <option name="height" value="803" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="UnityExplorer" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
-      <pane id="UnityExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="UnityCITest" type="483dac07:UnityExplorerNode$Root" />
-            </path>
-            <path>
-              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="UnityCITest" type="483dac07:UnityExplorerNode$Root" />
-              <item name="" type="1045f7f1:UnityExplorerNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="Scratches" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -123,11 +123,17 @@
       <updated>1541149710888</updated>
       <workItem from="1541149714291" duration="2169000" />
       <workItem from="1541411561234" duration="1152000" />
+      <workItem from="1541572324257" duration="1991000" />
+      <workItem from="1541644921770" duration="492000" />
+      <workItem from="1541645806953" duration="11000" />
+      <workItem from="1541645852077" duration="6000" />
+      <workItem from="1541645890848" duration="12000" />
+      <workItem from="1541645935007" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3321000" />
+    <option name="totallyTimeSpent" value="5837000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -139,7 +145,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="803" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -147,19 +153,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.6175617" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.6313498" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Unity" order="7" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -177,13 +183,143 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <marker date="1541645936742" expanded="false" signature="6:96" ph="..." />
+            <marker date="1541645936742" expanded="true" signature="125:312" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="183:215" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="277:309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/ApkPacker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <marker date="1541644940797" expanded="false" signature="6:128" ph="..." />
+            <marker date="1541644940797" expanded="true" signature="153:957" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="234:955" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="709:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <marker date="1541645936742" expanded="false" signature="6:96" ph="..." />
+            <marker date="1541645936742" expanded="true" signature="125:312" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="183:215" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="277:309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/ApkPacker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <marker date="1541644940797" expanded="false" signature="6:128" ph="..." />
+            <marker date="1541644940797" expanded="true" signature="153:957" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="234:955" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="709:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1541645936742" expanded="false" signature="6:96" ph="..." />
+            <marker date="1541645936742" expanded="true" signature="125:312" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="183:215" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="277:309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/ApkPacker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <marker date="1541644940797" expanded="false" signature="6:128" ph="..." />
+            <marker date="1541644940797" expanded="true" signature="153:957" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="234:955" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="709:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <marker date="1541645936742" expanded="false" signature="6:96" ph="..." />
+            <marker date="1541645936742" expanded="true" signature="125:312" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="183:215" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="277:309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/ApkPacker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <marker date="1541644940797" expanded="false" signature="6:128" ph="..." />
+            <marker date="1541644940797" expanded="true" signature="153:957" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="234:955" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="709:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <marker date="1541645936742" expanded="false" signature="6:96" ph="..." />
+            <marker date="1541645936742" expanded="true" signature="125:312" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="183:215" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="277:309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/ApkPacker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <marker date="1541644940797" expanded="false" signature="6:128" ph="..." />
+            <marker date="1541644940797" expanded="true" signature="153:957" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="234:955" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="709:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
-            <marker date="1541412158948" expanded="true" signature="6:96" ph="..." />
-            <marker date="1541412158948" expanded="true" signature="125:310" ph="{...}" />
-            <marker date="1541412158948" expanded="true" signature="183:215" ph="{...}" />
-            <marker date="1541412158948" expanded="true" signature="277:307" ph="{...}" />
+            <marker date="1541645936742" expanded="false" signature="6:96" ph="..." />
+            <marker date="1541645936742" expanded="true" signature="125:312" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="183:215" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="277:309" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -194,6 +330,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/ApkPacker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <marker date="1541644940797" expanded="false" signature="6:128" ph="..." />
+            <marker date="1541644940797" expanded="true" signature="153:957" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="234:955" ph="{...}" />
+            <marker date="1541644940797" expanded="true" signature="709:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Editor/Tests/NewTestScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1541645936742" expanded="false" signature="6:96" ph="..." />
+            <marker date="1541645936742" expanded="true" signature="125:312" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="183:215" ph="{...}" />
+            <marker date="1541645936742" expanded="true" signature="277:309" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

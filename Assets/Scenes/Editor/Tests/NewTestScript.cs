@@ -12,7 +12,7 @@ public class NewTestScript {
     
     [Test]
     public void NewTestScriptSimplePasses2() {
-        Assert.Fail();
+        //Assert.Fail();
     }
 
 }

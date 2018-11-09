@@ -7,6 +7,7 @@
       <e p="Assets" t="Include">
         <e p="Scenes" t="Include">
           <e p="Editor" t="Include">
+            <e p="ApkPacker.cs" t="Include" />
             <e p="MyEditorScript.cs" t="Include" />
             <e p="Tests" t="Include">
               <e p="NewTestScript.cs" t="Include" />
